@@ -1,4 +1,4 @@
-** Black Jack **
+# Black Jack
 
 JavaScript application using fundademtals of JS.
 This should be the first application you should try building while learning Java Script.
@@ -13,9 +13,12 @@ It does not include a lot of styling because it was just a JS project.
 
 Pull the project and run it. Start developing the game by understanding the features you see on playing the game. Then places you get stick you can always refer to the code. But try it on your own first. 
 
-Prerequisites:
-Basic HTML, CSS, JS
-Have knowledge of var, let, array, if-else, switch, functions. 
-Have basic knowledge of DOM events.
+### Prerequisites:
+- Basic HTML, CSS, JS
+- Have knowledge of var, let, array, if-else, switch, functions. 
+- Have basic knowledge of DOM events.
 
 Thats it. You are good to go. 
+
+Hope so this we begin your learning curve towards JS. 
+Thank you!
